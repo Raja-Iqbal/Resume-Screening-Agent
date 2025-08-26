@@ -24,8 +24,6 @@ The agent collects resumes, processes them (PDF, DOCX, TXT), matches them agains
 5. **Information Extraction** → Candidate details (Name, Email, etc.)  
 6. **Data Storage** → Results appended to Google Sheets for recruiters  
 
-📌 *See detailed diagrams and outputs in the [`/docs`](./docs) folder.*  
-
 ---
 
 ## 📂 Repository Contents
